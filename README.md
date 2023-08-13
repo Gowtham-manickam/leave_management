@@ -1,8 +1,8 @@
 # leave_management
 leave management system
 login page   ![Screenshot 2023-08-13 185332](https://github.com/Gowtham-manickam/leave_management/assets/114084554/9c35c512-7909-42d6-9102-213a479096b4)
-filling credentials ![Screenshot 2023-08-13 185450](https://github.com/Gowtham-manickam/leave_management/assets/114084554/e5c9be37-255a-4ef2-9558-8626ba37131f)
-loading page  ![Screenshot 2023-08-13 185428](https://github.com/Gowtham-manickam/leave_management/assets/114084554/3cd4aaec-cccd-4bb2-ae99-1a912812933d)
+ loading page ![Screenshot 2023-08-13 185450](https://github.com/Gowtham-manickam/leave_management/assets/114084554/e5c9be37-255a-4ef2-9558-8626ba37131f)
+filling credentials  ![Screenshot 2023-08-13 185428](https://github.com/Gowtham-manickam/leave_management/assets/114084554/3cd4aaec-cccd-4bb2-ae99-1a912812933d)
 dashbord of student ![Screenshot 2023-08-13 185544](https://github.com/Gowtham-manickam/leave_management/assets/114084554/344c0c20-3f26-4da6-a921-77ceac7194a2)
  leave history ![image](https://github.com/Gowtham-manickam/leave_management/assets/114084554/9d73c040-1636-477d-8920-b4510300c0e1)
  leave status  ![image](https://github.com/Gowtham-manickam/leave_management/assets/114084554/d2916d19-a065-4fe7-beba-84226c0e2e7e)
